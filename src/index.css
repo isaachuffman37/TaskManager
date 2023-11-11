@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.task-type{
+  font-size: 30pt;
+  margin-top: 50px;
+}
+th{
+  font-size: 16pt;
+}
+.table{
+  margin-top: 25px;
+}
+#task-description{
+  vertical-align: top;
+  width:400px;
+}
+
