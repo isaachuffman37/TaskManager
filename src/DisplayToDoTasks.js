@@ -28,7 +28,7 @@ function DisplayToDoTasks(props){
                     <tr>
                         <th>Name</th>
                         <th>Date</th>
-                        <th>Time</th>
+                        <th>Est. Time</th>
                         <th>Description</th>
                         <th>Mark Done</th>
                         <th>Delete</th>

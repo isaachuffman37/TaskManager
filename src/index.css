@@ -26,4 +26,16 @@ th{
   vertical-align: top;
   width:400px;
 }
+.label{
+  font-size: 16pt;
+  margin-left: 20px;
+}
+
+.header{
+  font-size: 50pt;
+  margin-bottom: 100px;
+}
+#add-task-button{
+  font-size: 16pt;
+}
 
