@@ -8,8 +8,6 @@ This is a web application thst I created using React. It is purely a front-end w
 The purpose of this addition to my web application was to help me understand a little more about how to integrate API calls in a React environment. I have only used API's in one project before this and have never used REACT before I created this task manager, so there was a lot to learn. I needed to learn how to use an API to preserve and manipulate state as well as familiarize myself with more javaScript functionality when using fetch. I have a better understanding of state, page rendering, and data manipulation through APIs as a result of this project.  
 
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code.}
-
 [Software Demo](https://youtu.be/_-X05Rv7Nk8)
 
 # Development Environment
