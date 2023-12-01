@@ -1,7 +1,6 @@
-import {useState} from "react";
 import Table from "react-bootstrap/esm/Table";
 
-function DisplayDoneTasks(props){
+function showHistory(props){
     const showTask = (item) =>{
         return(
             <tr>
@@ -16,7 +15,7 @@ function DisplayDoneTasks(props){
 
     return(
         <div>
-        <h2 className = "task-type">Done</h2>
+        <h2 className = "task-type">History</h2>
             <Table striped bordered hover>
                 <thead>
                     <tr>
@@ -36,4 +35,9 @@ function DisplayDoneTasks(props){
 
 }
 
-export default DisplayDoneTasks
+
+
+
+
+
+export default showHistory

@@ -6,9 +6,10 @@ function AddTask(props){
     const [time, setTime] = useState("")
     const [description, setDescription] = useState("")
     const [done, setDone] = useState(false)
+    const [display, setDisplay] = useState(true)
 
     const addTaskToData = () => {
-        props.addTask({name:name, date:date, time: time, description: description, done: done})
+        props.addTask({name:name, date:date, time: time, description: description, done: done, display: display})
         setName("")
         setDescription("")
         setDate("")
